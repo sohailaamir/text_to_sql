@@ -1,2 +1,1 @@
-# text_to_sql
-Converting Text to Sql
+# Text-To-Sql-Query-
